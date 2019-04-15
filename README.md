@@ -7,7 +7,7 @@ This application is profile config server. Which start at the default port of sp
 
 **Note**
 
-All profile is an another repository => [repo](https://github.com/3-Shamim/config-property-file-for-profiling-spring-cloud)
+All profile is in another repository => [profile-config-repo](https://github.com/3-Shamim/config-property-file-for-profiling-spring-cloud)
 
 ## Product-Service (Consumer)
 
